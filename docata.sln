@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dataship", "Dataship\Dataship.csproj", "{11D85FB8-8D43-42F7-AEC1-1489C1855DCB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "docata", "docata\docata.csproj", "{78C4CB61-05BD-4940-9826-8EB8F928B7B4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{11D85FB8-8D43-42F7-AEC1-1489C1855DCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{11D85FB8-8D43-42F7-AEC1-1489C1855DCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{11D85FB8-8D43-42F7-AEC1-1489C1855DCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{11D85FB8-8D43-42F7-AEC1-1489C1855DCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78C4CB61-05BD-4940-9826-8EB8F928B7B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78C4CB61-05BD-4940-9826-8EB8F928B7B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78C4CB61-05BD-4940-9826-8EB8F928B7B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78C4CB61-05BD-4940-9826-8EB8F928B7B4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {56A26EF9-DBB0-4E08-A61C-7154D2295462}
+		SolutionGuid = {3C9CD701-9388-4A73-85D6-404AF0BA0F51}
 	EndGlobalSection
 EndGlobal
