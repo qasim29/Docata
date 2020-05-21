@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace docata
 {
-    public partial class Form1 : Form
+    public partial class mainwin : Form
     {
-        public Form1()
+        public mainwin()
         {
             InitializeComponent();
         }

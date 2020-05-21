@@ -1,0 +1,9 @@
+C:\Users\Qasim.29\source\repos\docata\docata\bin\Debug\docata.exe.config
+C:\Users\Qasim.29\source\repos\docata\docata\bin\Debug\docata.exe
+C:\Users\Qasim.29\source\repos\docata\docata\bin\Debug\docata.pdb
+C:\Users\Qasim.29\source\repos\docata\docata\obj\Debug\docata.csprojAssemblyReference.cache
+C:\Users\Qasim.29\source\repos\docata\docata\obj\Debug\docata.Properties.Resources.resources
+C:\Users\Qasim.29\source\repos\docata\docata\obj\Debug\docata.csproj.GenerateResource.cache
+C:\Users\Qasim.29\source\repos\docata\docata\obj\Debug\docata.csproj.CoreCompileInputs.cache
+C:\Users\Qasim.29\source\repos\docata\docata\obj\Debug\docata.exe
+C:\Users\Qasim.29\source\repos\docata\docata\obj\Debug\docata.pdb
