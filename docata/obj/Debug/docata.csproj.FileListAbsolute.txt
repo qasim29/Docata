@@ -7,3 +7,4 @@ C:\Users\Qasim.29\source\repos\docata\docata\obj\Debug\docata.csproj.GenerateRes
 C:\Users\Qasim.29\source\repos\docata\docata\obj\Debug\docata.csproj.CoreCompileInputs.cache
 C:\Users\Qasim.29\source\repos\docata\docata\obj\Debug\docata.exe
 C:\Users\Qasim.29\source\repos\docata\docata\obj\Debug\docata.pdb
+C:\Users\Qasim.29\source\repos\docata\docata\obj\Debug\docata.mainwin.resources
