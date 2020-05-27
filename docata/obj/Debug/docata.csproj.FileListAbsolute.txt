@@ -8,3 +8,4 @@ C:\Users\Qasim.29\source\repos\docata\docata\obj\Debug\docata.csproj.CoreCompile
 C:\Users\Qasim.29\source\repos\docata\docata\obj\Debug\docata.exe
 C:\Users\Qasim.29\source\repos\docata\docata\obj\Debug\docata.pdb
 C:\Users\Qasim.29\source\repos\docata\docata\obj\Debug\docata.mainwin.resources
+C:\Users\Qasim.29\source\repos\docata\docata\obj\Debug\docata.activation_panel.resources

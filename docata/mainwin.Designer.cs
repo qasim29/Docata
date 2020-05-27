@@ -40,7 +40,7 @@
             this.button1.TabIndex = 0;
             this.button1.Text = "Database";
             this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
+         //   this.button1.Click += new System.EventHandler(this.button1_Click); 
             // 
             // button2
             // 
@@ -55,11 +55,12 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(677, 433);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
             this.Name = "mainwin";
             this.Text = " ";
+            this.Load += new System.EventHandler(this.mainwin_Load);
             this.ResumeLayout(false);
 
         }
